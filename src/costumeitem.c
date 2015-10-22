@@ -8,7 +8,7 @@
 #include <string.h>
 
 #include "common/hercules.h" /* Should always be the first Hercules file included! (if you don't make it first, you won't be able to use interfaces) */
-#include "common/malloc.h"
+#include "common/memmgr.h"
 #include "common/timer.h"
 #include "common/HPMi.h"
 #include "common/mmo.h"
